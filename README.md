@@ -1,6 +1,10 @@
 ### Hi there I am Tanzim Ibthesam. I am currently a Full Stack Web Developer working as a Teaching Assistant in Udemy helping out in Laravel and VueJS courses.I am enthusiast about web and want to write some lines of code to chnage the world. I love both front and backend but I lean more towards the backend👋I share my learning through blogging you can check my blogs at https://dev.to/tanzimibthesam
+[![Tanzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanzimIbthesam)](https://github.com/TanzimIbthesam/github-readme-stats)
+
 
 🔭-I’m currently looking for new oppurtunities in Node Laravel,React,Vue
+🌱 I’m currently learning Next.js,Go Lang,MERN stack 
+
 
 
 <!--
