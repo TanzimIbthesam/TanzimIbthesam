@@ -6,7 +6,11 @@
 🌱 I’m currently learning Next.js,Go Lang,MERN stack 
 
 Projects
-1.Vue Forum- https://github.com/TanzimIbthesam/Vue-3/tree/1-VueForum
+1.Vue Forum- https://github.com/TanzimIbthesam/Vue-3/tree/1-VueForum 
+2.Laravel-https://github.com/TanzimIbthesam/Laravel-Docs/tree/PIOTRUDEMYCMS
+3.React Project Planner-https://github.com/TanzimIbthesam/ReactProjects/tree/1-ProjectPlanner
+4.LaraveVue(inspired)-https://github.com/TanzimIbthesam/Laravel-Mini-Projects/tree/bookingsite
+5.LaraveVue(inspired)-https://github.com/TanzimIbthesam/Laravel-Mini-Projects/tree/LaravelFacebook
 
 
 
