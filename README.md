@@ -2,7 +2,7 @@
 [![Tanzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanzimIbthesam)](https://github.com/TanzimIbthesam/github-readme-stats)
 
 
-🔭-I’m currently looking for new oppurtunities in Node Laravel,React,Vue
+🔭-I’m currently looking for new oppurtunities in Node Laravel,Vue
 🌱 I’m currently learning Next.js,Go Lang,MERN stack 
 
 Projects
